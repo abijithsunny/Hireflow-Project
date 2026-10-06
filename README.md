@@ -329,7 +329,8 @@ npm run dev
 
 | Candidate Dashboard | Browse Jobs |
 |---|---|
-| ![dashboard](https://placehold.co/480x300/EEF2FF/4F46E5?text=Candidate+Dashboard&font=inter) | ![jobs](https://placehold.co/480x300/EEF2FF/4F46E5?text=Browse+Jobs&font=inter) |
+| ![dashboard](https://placehold.co/480x300/EEF2FF/4F46E5?text=Candidate+Dashboard&font=inter) | ![jobs](<img width="1915" height="922" alt="Screenshot 2026-10-06 210227" src="https://github.com/user-attachments/assets/fbcc0c4d-d72e-4400-8830-16a41427a600" />
+) |
 
 | Recruiter — Review Applicants | Admin Analytics |
 |---|---|
