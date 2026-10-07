@@ -329,17 +329,17 @@ npm run dev
 
 | Candidate Dashboard | Browse Jobs |
 |---|---|
-| !<img width="1907" height="914" alt="Screenshot 2026-10-06 210255" src="https://github.com/user-attachments/assets/10b7c97f-34dd-4799-b442-f977b584edca" />
- | !<img width="1915" height="922" alt="Screenshot 2026-10-06 210227" src="https://github.com/user-attachments/assets/fbcc0c4d-d72e-4400-8830-16a41427a600" />
- |
+| <img width="1907" height="914" alt="Screenshot 2026-10-06 210255" src="https://github.com/user-attachments/assets/10b7c97f-34dd-4799-b442-f977b584edca" /> |<img width="1915" height="922" alt="Screenshot 2026-10-06 210227" src="https://github.com/user-attachments/assets/fbcc0c4d-d72e-4400-8830-16a41427a600" />| 
+
+
 
 | Recruiter — Review Applicants | Admin Analytics |
 |---|---|
-| ![recruiter](<img width="1498" height="874" alt="Screenshot 2026-06-02 025121" src="https://github.com/user-attachments/assets/3bc44567-b888-4b2f-90e2-72d5c21f6d2a" />
-) | ![analytics](<img width="1503" height="874" alt="Screenshot 2026-06-02 024820" src="https://github.com/user-attachments/assets/1a77baab-0c77-4dc3-8651-81920642373c" />
-) |
+|<img width="1498" height="874" alt="Screenshot 2026-06-02 025121" src="https://github.com/user-attachments/assets/3bc44567-b888-4b2f-90e2-72d5c21f6d2a" />  | <img width="1503" height="874" alt="Screenshot 2026-06-02 024820" src="https://github.com/user-attachments/assets/1a77baab-0c77-4dc3-8651-81920642373c" />|
 
-> 📝 Replace placeholders with actual screenshots once the app is running.
+ 
+
+
 
 ---
 
